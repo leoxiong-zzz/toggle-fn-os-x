@@ -9,7 +9,7 @@ _**tl;dr;**_ toggling fn keys through preferences is tedious, this app will do i
 
 ## Instructions
 1. Open _AppleScript Editor_.
-2. Past the following code.
+2. Paste the following code.
 ```applescript
 tell application "System Preferences"
 	set current pane to pane "com.apple.preference.keyboard"
