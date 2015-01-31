@@ -27,3 +27,6 @@ display notification state with title "Toggle fn"
 3. Save script with the name as _Toggle fn_ in the _Applications_ location as with _Application_ as the file format.
 4. Go to the _Security & Privacy_ preferences, _Privacy_ tab, and select _Accessibility_ on the left. Then click the _+_ button and browse to _~/Applications/Toggle fn_. This allows the app to modify system preferences.
 5. Launch app by searching _Toggle fn_ from Spotlight or using other means (eg. shortcut keys by creating a service).
+
+## Todo
+- Do not steal focus when launched!
